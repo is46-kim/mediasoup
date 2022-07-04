@@ -1,5 +1,6 @@
 #define MS_CLASS "Logger"
 // #define MS_LOG_DEV_LEVEL 3
+//
 
 #include "Logger.hpp"
 #include <uv.h>
